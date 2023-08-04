@@ -5,6 +5,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Governance, Risk Management and Compliance (GRC) Projects</b>
+  - [Cisco Policy and Procedure Lab]  (Cisco Cyber Threat Management Policy & Procedure Lab)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
