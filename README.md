@@ -7,10 +7,10 @@
 - <b>Governance, Risk Management and Compliance (GRC) Projects</b>
   - [Cisco Cyber Threat Management - Policy and Procedure Lab](https://github.com/afri-techi/afri-techi/tree/e8a4b8b72f4f7520b198216c3e44448b44ee5503/Cisco%20Cyber%20Threat%20Management%20Policy%20%26%20Procedure%20Lab) 
   - [Cisco Cyber Threat Management - Identify Relevant Threat Intelligence](https://github.com/afri-techi/afri-techi/blob/0920a28ef3f4d53d7de460e9b640d60844ac00ed/Cisco_Identify%20Relevant%20Threat%20Intelligence%20Lab.pdf)
-  - [TryHackMe
-- <b></b>
-  - []() <b><i> </b></i>
-- <b>PowerShell</b>
+  - [TryHackMe-Soc Level 1 Threat Intelligence Tools](https://github.com/afri-techi/afri-techi/blob/b21d956c2b528a92ab5a8aaaf9200451729860a4/TryHackMe.pdf)
+
+  
+- <b>Hands on Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -26,17 +26,13 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/siyamthandamdyesha/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
