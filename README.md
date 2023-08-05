@@ -7,8 +7,9 @@
 - <b>Governance, Risk Management and Compliance (GRC) Projects</b>
   - [Cisco Cyber Threat Management - Policy and Procedure Lab](https://github.com/afri-techi/afri-techi/tree/e8a4b8b72f4f7520b198216c3e44448b44ee5503/Cisco%20Cyber%20Threat%20Management%20Policy%20%26%20Procedure%20Lab) 
   - [Cisco Cyber Threat Management - Identify Relevant Threat Intelligence](https://github.com/afri-techi/afri-techi/blob/0920a28ef3f4d53d7de460e9b640d60844ac00ed/Cisco_Identify%20Relevant%20Threat%20Intelligence%20Lab.pdf)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [TryHackMe
+- <b></b>
+  - []() <b><i> </b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
