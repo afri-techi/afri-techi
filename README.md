@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Governance, Risk Management and Compliance (GRC) Projects</b>
+- <b>Governance, Risk and Compliance (GRC) and Vulnerability Management Projects</b>
   - [Cisco Cyber Threat Management - Policy and Procedure Lab](https://github.com/afri-techi/afri-techi/tree/e8a4b8b72f4f7520b198216c3e44448b44ee5503/Cisco%20Cyber%20Threat%20Management%20Policy%20%26%20Procedure%20Lab) 
   - [Cisco Cyber Threat Management - Identify Relevant Threat Intelligence](https://github.com/afri-techi/afri-techi/blob/0920a28ef3f4d53d7de460e9b640d60844ac00ed/Cisco_Identify%20Relevant%20Threat%20Intelligence%20Lab.pdf)
   - [TryHackMe-Soc Level 1 Threat Intelligence Tools](https://github.com/afri-techi/afri-techi/blob/b21d956c2b528a92ab5a8aaaf9200451729860a4/TryHackMe.pdf)
