@@ -1,4 +1,4 @@
-<h1>Hi, I'm Siya Mdyesha <br/><a href="https://github.com/afri-techi">Cyber Security Professional / Analyst</a> <a href="https://www.linkedin.com/in/siyamthandamdyesha/"></a>
+<h1>Hi, I'm Siya Mdyesha <br/><a href="https://github.com/afri-techi">Cyber Security Analyst and Cloud Enthusiast</a> <a href="https://www.linkedin.com/in/siyamthandamdyesha/"></a>
 
    
 
@@ -11,7 +11,7 @@
   - [Security Blue Team -Introduction to Vulnerability Management](https://github.com/afri-techi/afri-techi/blob/683a1906d245a4d8d08376f6806399ec5d98294a/SBT%20Vulnerability%20Management.pdf)
 
   
-- <b>Other Projects</b>
+- <b>Other Projects (See pinned tabs)</b>
  
 
 
